@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0a2ebe0-301e-4b94-bb24-0faf6a45ff13" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CyntekaTest-main/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CyntekaTest-main/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CyntekaTest-main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CyntekaTest-main/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CyntekaTest-main/CyntekaTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CyntekaTest-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CyntekaTest-main/out/artifacts/CyntekaTest_jar/CyntekaTest.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CyntekaTest-main/src/matcher/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CyntekaTest-main/src/matcher/Matcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CyntekaTest-main/src/matcher/ReaderInputFileWithData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyntekaTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LernThree/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LernThree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LernThree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LernThree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LernThree/LernThree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LernThree/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LernThree/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/first.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/hello.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Arithmetics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/BinaryMedian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/ComplexArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/CongratulationsYouPassed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Dostoprimechatelnosti.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Dostoprimechatelnosti2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Dostoprimichetelnosti3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Dostoprimichetelnosti4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Draft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/ElectronTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/EvenSub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/EvenSubTaskB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/GeneratingBracket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/HHFinancialFarmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/HHResume.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/HammingDist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/HammingDistNew.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Hexagons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/HomeWork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/InterestingPari.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/InterestingPariTaskD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/LettersForHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/LogisticheskyiCentre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/NewGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/NumericalPuzzles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Ozon_Sumator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/PickWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/ProductReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Rebuce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Rectangles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_1_A_function.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_1_A_zero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_1_B_Hands.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_1_B_OddOrEven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_1_B_isStepen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_1_C_Neighbors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_1_ChaoticWeather.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_1_ChaoticWeather2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_1_HomeWork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_1_K_ListFormula.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_1_L_ExtraLetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_1_OddOrEven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_1_Palidrom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_1_TheMostLongStrgin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_2_A_DEK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_2_A_Monitoring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_2_C_UnlovedBusiness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_2_D_Mother.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_2_F_Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_2_G_StakMaxEffective.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_2_I_SizedQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_2_K_FibonachiIntern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_2_L_FibonachiModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_2_ListQuene.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_2_Polsk_Calculate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_3_B_FinalSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_3_Broken_Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_3_Cookies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_3_E_Home.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_3_F_Perimeter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_3_G_BigNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_3_G_Cloakroom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_3_GeneratorSkobok.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_3_I_ConferencesLove.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_3_J_Bubble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_3_K_MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_3_L_TwoB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_3_M_GoldenMedium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_3_N_FlowerHouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_3_SubSeq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_3_Telephone_Combinations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_4_D_Circles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_4_E_SubStroke.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_4_E_SubStrokeArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_4_F_Group.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_4_G_Competiton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_4_H_Strange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_4_H_StrangeArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_4_I_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_4_J_Sum_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_4_K_BusStop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_4_SubStringLengthMany.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Sprint_4_SubStringLengthManyINTEGER.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/TInkoff4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Tinkoff1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Tinkoff2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Tinkoff3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Tinkoff5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/WalkIdeal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YFTAdTech1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YTechnicalDebt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YTechnicalDebtList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexAlchemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexAlchemyDone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexBFigure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexDevakuation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexKKlientu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexPlagiat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexPlagiat2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexProductReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexProductReportNew.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexProductReportNext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexShifr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexShifrDone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexSkobka.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexSkobkaNext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexSkobkaStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexSkobkaStackAlgo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexSprintDraft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexWatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexYouPassed2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/YandexYouPassedVac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/i10n.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/Arithmetics Inc..txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/Best approximation.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/Binary median.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/ChetnyiPodotrezok.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/Complex array.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/Dostoprimichatelonosti.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/Draft.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/ElecktronieTable.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/HHFinncialFermer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/HHResume.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/Hexagons.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/HomeWork.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/InterestingPari.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/Intersections of rectangles.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/LogisticheskyiCentre.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/Orientation .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/PickWords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/ProductReport.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/Rebuce.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/Tinkoff1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/Tinkoff2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/Tinkoff3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/Tinkoff4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/Tinkoff5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/Tinkoff6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/WalkIdeal.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/YBFigure.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/YCzakupki.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/YDevaution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/YEoblaka" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/YFTAdTech1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/YFTAdTech2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/YFTAdTech3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/YFTAdTech4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/YouPassed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/i10n.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/tinkof1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/yandex1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/yandex2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/yandex3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/yandex4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/data/yandex5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Arithmetics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/BinaryMedian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Candidate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/CandidateComparatorByGradeAndFine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/CandidateComparatorByName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/ComplexArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/CongratulationsYouPassed$Candidate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/CongratulationsYouPassed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Dostoprimechatelnosti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Dostoprimechatelnosti2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Dostoprimichetelnosti3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Dostoprimichetelnosti4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Draft$Candidate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Draft.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/ElectronTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/EvenSub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/EvenSubTaskB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Filter$FILTER_FIELD_NAME.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Filter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/GeneratingBracket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/HHFinancialFarmer$Region.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/HHFinancialFarmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/HammingDist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/HammingDistNew$InputReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/HammingDistNew.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Hexagons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/HomeWork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/InterestingPari.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/InterestingPariTaskD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/LettersForHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/LogisticheskyiCentre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/NewGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/NumericalPuzzles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/PickWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/ProductReport$Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/ProductReport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Rebuce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Rectangles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_1_A_function.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_1_A_zero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_1_B_Hands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_1_B_OddOrEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_1_B_isStepen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_1_C_Neighbors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_1_ChaoticWeather.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_1_ChaoticWeather2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_1_HomeWork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_1_K_ListFormula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_1_L_ExtraLetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_1_OddOrEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_1_Palidrom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_1_TheMostLongStrgin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_2_A_DEK$DEK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_2_A_DEK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_2_A_Monitoring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_2_C_UnlovedBusiness$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_2_C_UnlovedBusiness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_2_D_Mother$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_2_D_Mother.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_2_F_Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_2_G_StakMaxEffective$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_2_G_StakMaxEffective.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_2_I_SizedQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_2_K_FibonachiIntern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_2_L_FibonachiModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_2_ListQuene$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_2_ListQuene.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_2_Polsk_Calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_3_B_FinalSort$CandidateComparatorByGradeAndFine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_3_B_FinalSort$Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_3_B_FinalSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_3_Broken_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_3_Cookies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_3_E_Home.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_3_F_Perimeter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_3_G_BigNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_3_G_Cloakroom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_3_GeneratorSkobok.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_3_I_ConferencesLove$MyComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_3_I_ConferencesLove.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_3_J_Bubble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_3_K_MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_3_L_TwoB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_3_M_GoldenMedium.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_3_N_FlowerHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_3_SubSeq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Sprint_3_Telephone_Combinations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/TInkoff4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Tinkoff1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Tinkoff2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Tinkoff3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Tinkoff5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Vacancy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/WalkIdeal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YFTAdTech1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YTechnicalDebt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YTechnicalDebtList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexAlchemy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexAlchemyDone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexBFigure$Candidate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexBFigure$Vacancies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexBFigure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexDevakuation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexKKlientu$MyLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexKKlientu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexPlagiat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexPlagiat2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexProductReport$DateForReq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexProductReport$Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexProductReport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexProductReportNew$Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexProductReportNew.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexProductReportNext$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexProductReportNext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexShifr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexShifrDone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexSkobka.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexSkobkaNext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexSkobkaStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexSkobkaStackAlgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexTree$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexWatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexYouPassed2$Competitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexYouPassed2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/YandexYouPassedVac.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/Arithmetics Inc..txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/Best approximation.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/Binary median.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/ChetnyiPodotrezok.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/Complex array.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/Dostoprimichatelonosti.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/Draft.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/ElecktronieTable.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/HHFinncialFermer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/HHResume.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/Hexagons.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/HomeWork.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/InterestingPari.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/Intersections of rectangles.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/LogisticheskyiCentre.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/Orientation .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/PickWords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/ProductReport.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/Rebuce.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/Tinkoff1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/Tinkoff2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/Tinkoff3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/Tinkoff4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/Tinkoff5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/Tinkoff6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/WalkIdeal.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/YBFigure.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/YCzakupki.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/YDevaution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/YEoblaka" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/YFTAdTech1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/YFTAdTech2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/YFTAdTech3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/YFTAdTech4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/YouPassed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/i10n.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/tinkof1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/yandex1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/yandex2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/yandex3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/yandex4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/data/yandex5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/i10n.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yande2022.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MiZ1ze6dYm4wJzvXQTdJJWRNhw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CyntekaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0a2ebe0-301e-4b94-bb24-0faf6a45ff13" name="Changes" comment="" />
+      <created>1678252154486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678252154486</updated>
+      <workItem from="1678252156832" duration="7114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CyntekaTest$Main.ic" NAME="Main Coverage Results" MODIFIED="1678286304393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
