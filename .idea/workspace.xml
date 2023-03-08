@@ -12,10 +12,7 @@
       <change afterPath="$PROJECT_DIR$/../CyntekaTest-main/src/matcher/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CyntekaTest-main/src/matcher/Matcher.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CyntekaTest-main/src/matcher/ReaderInputFileWithData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyntekaTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LernThree/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LernThree/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LernThree/.idea/modules.xml" afterDir="false" />
@@ -41,6 +38,10 @@
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CyntekaTest/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CyntekaTest/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/main/java/Arithmetics.java" beforeDir="false" />
@@ -381,7 +382,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -404,7 +405,8 @@
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "go.import.settings.migrated": "true"
+    "go.import.settings.migrated": "true",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RunManager">
@@ -429,7 +431,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678252154486</updated>
-      <workItem from="1678252156832" duration="7114000" />
+      <workItem from="1678252156832" duration="8427000" />
     </task>
     <servers />
   </component>

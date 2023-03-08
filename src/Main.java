@@ -1,22 +1,21 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
 
 public class Main {
     private static BufferedReader reader = null;
+    private static BufferedWriter writer = null;
     public static int M; //количество строк первого множества
     public static int N; // количество строк второго множества
 
-    // TODO чтение и запись в файл сделать
     public static void main(String[] args) throws Exception {
         init();
         run();
     }
 
-    private static void init() {
-        reader = new BufferedReader(new InputStreamReader(System.in));
+    private static void init() throws IOException {
+        reader = new BufferedReader(new FileReader("input.txt"));
+        writer = new BufferedWriter(new FileWriter("output.txt"));
     }
 
     /*
@@ -76,12 +75,10 @@ public class Main {
             }
         }
 
-
         for (Map.Entry<Integer, int[]> entry : strorage.entrySet()) {
             int key = entry.getValue()[0];
             strorageSecondFixed.remove(key);
         }
-
 
         for (int i = 1; i <= N; i++) {
             StringBuilder str = new StringBuilder();
@@ -90,7 +87,8 @@ public class Main {
                 str.append(strorageFirst.get(i))
                         .append(" : ")
                         .append(strorageSecond.get(key));
-                System.out.println(str);
+                writer.write(String.valueOf(str));
+                writer.write("\n");
                 continue;
             }
             str.append(strorageFirst.get(i))
@@ -102,20 +100,21 @@ public class Main {
                 strorageSecondFixed.remove(entry.getKey());
                 break;
             }
-            if (flag) {
-                System.out.println(str);
-            } else {
+            if (!flag) {
                 str.append("?");
-                System.out.println(str);
             }
+            writer.write(String.valueOf(str));
+            writer.write("\n");
         }
         for (Map.Entry<Integer, String> entry : strorageSecondFixed.entrySet()) {
             StringBuilder str = new StringBuilder();
             str.append(entry.getValue())
                     .append(" : ")
                     .append("?");
-            System.out.println(str);
-        }
+            writer.write(String.valueOf(str));
+            writer.write("\n");
 
+        }
+        writer.close();
     }
 }
